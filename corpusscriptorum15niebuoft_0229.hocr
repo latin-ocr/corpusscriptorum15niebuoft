@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./corpusscriptorum15niebuoft_0229.png"; bbox 0 0 1754 2990; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 154 940 1335 998">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 154 940 1335 998">
+     <span class='ocr_line' id='line_1_1' title="bbox 154 940 1335 998; baseline 0.003 -16"><span class='ocrx_word' id='word_1_1' title='bbox 154 940 380 983; x_wconf 82' lang='lat' dir='ltr'><strong>IOANNIS</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 437 940 668 998; x_wconf 81' lang='lat' dir='ltr'><strong>MEURSII</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 723 942 798 984; x_wconf 91' lang='lat' dir='ltr'><strong>ET</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 855 943 1021 986; x_wconf 87' lang='lat' dir='ltr'><strong>PETRI</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 1070 945 1335 988; x_wconf 81' lang='lat' dir='ltr'><strong>LAMBECII</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 710 1111 779 1144">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 710 1111 779 1144">
+     <span class='ocr_line' id='line_1_2' title="bbox 710 1111 779 1144; baseline -0.014 0"><span class='ocrx_word' id='word_1_6' title='bbox 710 1111 779 1144; x_wconf 77' lang='lat' dir='ltr'><strong>AD</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 27 1261 1470 1336">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 27 1261 1470 1336">
+     <span class='ocr_line' id='line_1_3' title="bbox 27 1261 1470 1336; baseline 0.001 -2"><span class='ocrx_word' id='word_1_7' title='bbox 27 1261 763 1334; x_wconf 88' lang='lat' dir='ltr'>GEORGIUM</span> <span class='ocrx_word' id='word_1_8' title='bbox 856 1261 1470 1336; x_wconf 85' lang='lat' dir='ltr'>CODINUM</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 227 1431 1266 1511">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 227 1431 1266 1511">
+     <span class='ocr_line' id='line_1_4' title="bbox 227 1431 1266 1511; baseline 0 0"><span class='ocrx_word' id='word_1_9' title='bbox 227 1462 458 1511; x_wconf 82' lang='lat' dir='ltr'><strong>NOTAE</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 483 1431 581 1509; x_wconf 78' lang='grc' dir='ltr'><strong>ΕΤ</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 618 1461 1266 1511; x_wconf 83' lang='lat' dir='ltr'><strong>ANIMADVERSIONES.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 92 2812 1203 2865">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 92 2812 1203 2865">
+     <span class='ocr_line' id='line_1_5' title="bbox 92 2812 1203 2865; baseline 0.004 -15"><span class='ocrx_word' id='word_1_12' title='bbox 92 2817 222 2863; x_wconf 71' lang='lat' dir='ltr'><strong><em>Georg.</em></strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 254 2818 336 2852; x_wconf 73' lang='lat' dir='ltr'><strong>eoa.</strong></span> <span class='ocrx_word' id='word_1_14' title='bbox 369 2821 410 2853; x_wconf 73' lang='lat' dir='ltr'><strong>ae</strong></span> <span class='ocrx_word' id='word_1_15' title='bbox 440 2820 538 2865; x_wconf 68' lang='lat' dir='ltr'><strong><em>Orig.</em></strong></span> <span class='ocrx_word' id='word_1_16' title='bbox 570 2820 631 2865; x_wconf 80' lang='lat' dir='ltr'><strong>ep.</strong></span> <span class='ocrx_word' id='word_1_17' title='bbox 1151 2812 1203 2854; x_wconf 79' lang='lat'><strong>14</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
